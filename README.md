@@ -48,6 +48,6 @@
    ```bash
    docker build -t web-calc-app .
 
-   Результат
-   <img width="1079" height="856" alt="изображение" src="https://github.com/user-attachments/assets/238f9652-00ad-47d5-8eb9-85a892cfd814" />
+Результат
+<img width="1079" height="856" alt="изображение" src="https://github.com/user-attachments/assets/238f9652-00ad-47d5-8eb9-85a892cfd814" />
 
